@@ -1,0 +1,27 @@
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #f7f0e3;
+  margin: 2rem;
+  color: #1d2d35;
+}
+
+#list {
+  list-style: none;
+  padding: 0;
+}
+
+.tile {
+  padding: 0.75rem 1rem;
+  color: #1d2d35;
+  border-bottom: 1px solid #d9cdb7;
+}
+
+button {
+  margin-bottom: 1rem;
+  padding: 0.6rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #2f6f5d;
+  color: #ffffff;
+  font-weight: 600;
+}
